@@ -5,7 +5,8 @@
             云设 CDN
 
             <div>
-                <a href="http://cdn.yunser.com/libs/jquery/1.10.2/jquery.js" target="_blank">111</a>
+                <a href="http://cdn.yunser.com/libs/jquery/1.10.2/jquery.js" target="_blank">http://cdn.yunser.com/libs/jquery/1.10.2/jquery.js</a>
+                <a class="btn">复制链接</a>
             </div>
         </main>
         <ui-footer></ui-footer>
