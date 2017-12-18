@@ -1,0 +1,16 @@
+@import "var";
+
+.page-home {
+
+}
+
+.banner {
+    height: 450px;
+    color: #fff;
+    text-align: center;
+    background-color: $primary;
+    .title {
+        font-size: 56px;
+        text-shadow: -5px 5px 0 rgba(0,0,0,.1);
+    }
+}
