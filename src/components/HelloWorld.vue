@@ -8,6 +8,14 @@
                 <a href="http://cdn.yunser.com/libs/jquery/1.10.2/jquery.js" target="_blank">http://cdn.yunser.com/libs/jquery/1.10.2/jquery.js</a>
                 <a class="btn">复制链接</a>
             </div>
+            <div>
+                <a href="http://cdn.yunser.com/libs/ui/1.3/ui.min.js" target="_blank">http://cdn.yunser.com/libs/ui/1.3/ui.min.js</a>
+                <a class="btn">复制链接</a>
+            </div>
+            <div>
+                <a href="http://cdn.yunser.com/libs/ui/1.3/ui.min.css" target="_blank">http://cdn.yunser.com/libs/ui/1.3/ui.min.css</a>
+                <a class="btn">复制链接</a>
+            </div>
         </main>
         <ui-footer></ui-footer>
     </div>
